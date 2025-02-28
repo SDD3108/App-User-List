@@ -14,7 +14,6 @@ import Entypo from '@expo/vector-icons/Entypo';
 
 const Tab = createBottomTabNavigator()
 const Stack = createNativeStackNavigator()
-
 const TabNavigator =()=>{
   return(
     <Tab.Navigator>
